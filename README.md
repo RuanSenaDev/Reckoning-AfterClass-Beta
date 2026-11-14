@@ -61,4 +61,6 @@ o que você estava fazendo, ou mande direto para o Ruan.
 
 ## Créditos e licenças
 
-Veja [CREDITOS.md](CREDITOS.md) e a pasta [licencas/](licencas/).
+Veja [CREDITOS.md](CREDITOS.md) e a pasta [licencas/](licencas/). As vozes de terceiros com licença
+Creative Commons CC BY e CC BY-SA também estão abertas, sem criptografia, em
+[audios_licenciados/](audios_licenciados/).

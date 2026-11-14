@@ -40,6 +40,10 @@ Os áudios derivados das fontes CC BY-SA 4.0 (PlumpDev e VoiceBosch) são distri
 CC BY-SA 4.0. Os gritos de morte, golpe e dano de cada personagem são recortes desses mesmos takes
 (os créditos e as licenças acima valem para eles).
 
+As vozes CC BY e CC BY-SA, exatamente como estão no jogo, também estão disponíveis **sem
+criptografia** em [audios_licenciados/](audios_licenciados/), com a lista de cada arquivo e do que foi
+mudado.
+
 ## Fonte
 
 DejaVu Sans (licença em [licencas/dejavu/LICENSE-DejaVu.txt](licencas/dejavu/LICENSE-DejaVu.txt)).
